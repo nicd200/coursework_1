@@ -6,7 +6,7 @@ class Dec2Hex {
 
 
         if (args.length == 0){
-                System.err.println("Please enter a valid argument.");
+                System.err.println("Please enter a valid number.");
                 return;
             }
         else if (args.length > 0) {
