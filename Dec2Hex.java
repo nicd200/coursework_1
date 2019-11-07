@@ -1,6 +1,6 @@
 class Dec2Hex {
 
-    private static int Arg1;
+    public static int Arg1;
 
     public static void main(String args[]) {
 
